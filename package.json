@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/Zergus/CDTSuite#readme",
   "dependencies": {
-    "babel-register": "^6.24.0",
-    "protractor": "^5.1.1"
+    "babel": "5.8.38",
+    "protractor": "5.1.1"
   }
 }
