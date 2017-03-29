@@ -2,7 +2,7 @@
 Configuration driven testing suite for protractor. Tool for writing expandable, flexible, configurable tests based on [Protractor](https://github.com/angular/protractor).
 
 ## Instalation
-Verify having Java installed. Then run `npm install`.
+Clone repo or `npm install cdtsuite`.Verify Java installed. Then run `npm install`.
 
 ## Execute
 `npm start` will update and start webdriver. `npm test` will start protractor with `protractor.config.js`.
