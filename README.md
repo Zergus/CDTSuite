@@ -1,5 +1,5 @@
 # CDTSuite
-Configuration driven testing suite for protractor. Tool for writing modular, configurable tests based on [Protractor](https://github.com/angular/protractor).
+Configuration driven testing suite for protractor. Tool for writing modular, expandable, flexible, configurable tests based on [Protractor](https://github.com/angular/protractor).
 
 ## Instalation
 Clone repo or `npm install cdtsuite`.Verify Java installed. Then run `npm install`.
