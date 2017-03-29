@@ -1,0 +1,29 @@
+{
+  "name": "cdtsuite",
+  "version": "1.0.0",
+  "description": "Config driven testing suite for protractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zergus/CDTSuite.git"
+  },
+  "keywords": [
+    "e2e",
+    "test",
+    "protractor",
+    "cdt"
+  ],
+  "author": "smelnyk\u001b[D\u001b Zergus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zergus/CDTSuite/issues"
+  },
+  "homepage": "https://github.com/Zergus/CDTSuite#readme",
+  "dependencies": {
+    "babel-register": "^6.24.0",
+    "protractor": "^5.1.1"
+  }
+}
