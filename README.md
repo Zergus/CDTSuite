@@ -15,7 +15,7 @@ import examplePage from './pages/examplePage';
 
 describe('Protractor Demo App', () => {
   it('should add one and two', () => {
-  	examplePage.login();
+  examplePage.login();
     examplePage.first = '1';
     examplePage.second = '2';
 
