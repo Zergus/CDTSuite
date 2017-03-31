@@ -1,6 +1,6 @@
 {
   "name": "cdtsuite",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Config driven testing suite for protractor",
   "main": "index.js",
   "scripts": {
@@ -26,5 +26,9 @@
   "dependencies": {
     "babel": "5.8.38",
     "protractor": "5.1.1"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^3.2.0"
   }
 }
