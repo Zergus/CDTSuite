@@ -1,6 +1,6 @@
 {
   "name": "cdtsuite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Config driven testing suite for protractor",
   "main": "index.js",
   "scripts": {
