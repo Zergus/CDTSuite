@@ -1,14 +1,14 @@
 # CDTSuite
 Configuration driven testing suite for protractor. Tool for writing modular, expandable, flexible, configurable tests based on [Protractor](https://github.com/angular/protractor).
 
-## Instalation
+## Installation
 Clone repo or `npm install cdtsuite`.Verify Java installed. Then run `npm install`.
 
 ## Execute
 `npm start` will update and start webdriver. `npm test` will start protractor with `protractor.config.js`.
 
 ## Usage
-Basic usage is to write page objects with related configurations. Configurations contains all elements tests interacts with.
+Write page objects with related configurations. Configurations contains all elements tests interacts with and defining way to fill them with data. Helpers will provide mixins with methods used to easily set test data in elements that are input fields or special handlers. Storage will provide singleton object where you can store some data needed (e.g. previous url of created user by test scenario).
 
 ### Config file
 Example of configuration file:
